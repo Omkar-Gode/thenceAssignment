@@ -7,3 +7,5 @@
 - after this for running the project type 'npm run dev'
 
 Thanks
+
+Assignment live link - https://omkarcgode.github.io/
